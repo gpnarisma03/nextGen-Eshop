@@ -15,7 +15,7 @@ const Home = () => {
   heading="Leading Sports Equipment Shopping Center"
   subheading="Shop the best sports equipment and gear!"
   buttonText="Shop Now"
-  buttonLink="/shop"
+  buttonLink="/products"
 />
 
       {/* Features Section */}
