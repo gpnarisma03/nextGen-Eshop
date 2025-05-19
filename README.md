@@ -44,11 +44,6 @@ A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** E-Commerce Platfo
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional)* Add screenshots or a demo video link here to showcase the interface.
-
----
 
 ## 🔧 Setup Instructions
 
